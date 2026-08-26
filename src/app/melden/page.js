@@ -221,11 +221,15 @@ export default function MeldenPage() {
 
 
       <p className="privacy-note">
+    Sie können die Anwendung gerne mit eigenen Testdaten ausprobieren.      
+  <br /> <br />      
   Für eine Meldung sind weder Name noch Kontaktdaten erforderlich.{" "}
   <Link href="/datenschutz">
     Hinweise zum Datenschutz
   </Link>
 </p>
+
+
 
 
 

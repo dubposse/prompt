@@ -97,6 +97,11 @@ export default function UeberPromptPage() {
         <p>
           Prompt ist ein Software-Prototyp zur Erprobung datenbasierter
           Abläufe zwischen Meldung, Maßnahme und digitaler Lernressource.
+          <br />
+          <br />
+          Die Anwendung enthält Demo-Datensätze und kann mit eigenen Testdaten ausprobiert werden. 
+          Bitte geben Sie keine echten personenbezogenen oder sensiblen Daten ein. Testdaten können
+          während des Prototypbetriebs gespeichert, verändert oder wieder gelöscht werden.
         </p>
       </section>
     </main>

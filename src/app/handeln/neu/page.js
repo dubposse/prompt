@@ -223,6 +223,12 @@ async function createMeasure() {
           Jahrgang {selectedCase.grade_level}
         </span>
       )}
+
+      {selectedCase.reporter_role && (
+        <span>
+      Gemeldet von: {getLabel(selectedCase.reporter_role)}
+        </span>
+      )}
     </div>
 
     <div className="detail-grid">
@@ -393,7 +399,14 @@ async function createMeasure() {
                   Jahrgang {item.grade_level}
                 </span>
               )}
+
+              {item.reporter_role && (
+                <span>
+              Gemeldet von: {getLabel(item.reporter_role)}
+                </span>
+           )}
             </div>
+
 
             <div className="measure-details">
               <strong>
