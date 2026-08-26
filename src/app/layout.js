@@ -1,3 +1,13 @@
+/*
+ * Prompt – Prototype for connecting school-related issues,
+ * learning needs, measures, and digital learning resources.
+ *
+ * Copyright (C) 2026 Matthias Brehm
+ * Licensed under the GNU AGPL v3.0.
+ * See LICENSE for details.
+ */
+
+
 import Link from "next/link";
 import "./globals.css";
 

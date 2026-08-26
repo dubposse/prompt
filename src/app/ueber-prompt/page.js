@@ -104,6 +104,18 @@ export default function UeberPromptPage() {
           während des Prototypbetriebs gespeichert, verändert oder wieder gelöscht werden.
         </p>
       </section>
+
+     <p className="license-note">
+  © 2026 Matthias Brehm ·{" "}
+  <a
+    href="https://github.com/dubposse/prompt/blob/main/LICENSE"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    GNU AGPL v3.0
+  </a>
+</p>
+      
     </main>
   );
 }

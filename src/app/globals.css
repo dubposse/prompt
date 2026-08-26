@@ -1348,3 +1348,12 @@ h2 {
     width: 140px;
   }
 }
+
+
+.license-note {
+  margin-top: 20px;
+  color: #8a8a85;
+  font-size: 11px;
+  line-height: 1.4;
+}
+
