@@ -26,8 +26,8 @@ export default function DatenschutzPage() {
 
         <p>
           E-Mail:{" "}
-          <a href="mailto:matthiasbrehm1@gmx.de">
-            matthiasbrehm1@gmx.de
+          <a href="mailto:kontakt@matthiasbrehm.de">
+            kontakt@matthiasbrehm.de
           </a>
         </p>
       </section>
